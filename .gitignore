@@ -29,3 +29,5 @@
 /javafx/.settings
 /javafx/target
 /javafx/.classpath
+.idea
+*.iml
